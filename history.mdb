@@ -1,0 +1,48 @@
+    1  passwd
+    2  ls /usr/bin/ | gre gnome-t*
+    3  ls /usr/bin/ | grep gnome-t*
+    4  gnome-terminal
+    5  jupyter notebook
+    6  firefox &
+    7  top
+    8  pipe firefox
+    9  pip firefox
+   10  pip
+   11  git
+   12  git man
+   13  man git
+   14  history
+   15  global history
+   16  cd mis_programas
+   17  la
+   18  ls
+   19  cd share
+   20  ls
+   21  git status
+   22  cd jupyter
+   23  ls
+   24  cd mis_programas
+   25  cd 
+   26  cd /mis_programas
+   27  cd est5
+   28  ls
+   29  cd mis_programas
+   30  ls
+   31  cd integradores
+   32  ls
+   33  git status
+   34  ls -la
+   35  cd ~/mis_programas
+   36  ls -la
+   37  cd Downloads
+   38  ls
+   39  cd ~/Downloads
+   40  cd ~/Descargas
+   41  ls
+   42  mv Euler* ~/mis_programas
+   43  ls
+   44  cd ~/mis_programas
+   45  ls
+   46  mv Euler* integradores
+   47  cd integradores
+   48  history >> history.mdb
